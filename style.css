@@ -1,0 +1,21 @@
+p{color:chocolate}
+
+/* Who{What: how} */
+
+h1{color: fuchsia;}
+
+ul{color: greenyellow;}
+
+ol{color:lightsalmon;}
+
+.list{color: rgb(45, 22, 6);
+margin: 10px;
+border-style: dotted;
+border-radius: 30px;
+border-color: aqua;
+text-align: right;}
+
+#header{
+    color: darkgoldenrod;
+    text-align: center;
+}
